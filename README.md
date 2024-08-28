@@ -9,6 +9,4 @@
 7. Введите запрос
 
 
-Если буду вопросы.
-mail: sergey.d@attacking.ru
-tg: @pari_tet
+Если буду вопросы | mail: sergey.d@attacking.ru | tg: @pari_tet
