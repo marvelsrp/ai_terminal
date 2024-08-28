@@ -7,3 +7,8 @@
 5. Вставьте данные в файл Request.sh
 6. Запустите Sphere.sh
 7. Введите запрос
+
+
+Если буду вопросы.
+mail: sergey.d@attacking.ru
+tg: @pari_tet
