@@ -1,4 +1,4 @@
-# AI in terminal
+# AI Chat in terminal
 
 1. Скачайте файлы Sphere.sh, в этой же папке создайте файл Request.txt.
 2. Залогиниться в giga.chat в браузере (use Chrome). Найти чат, написать в чат "Привет"
