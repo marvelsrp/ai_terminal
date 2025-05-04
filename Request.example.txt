@@ -1,0 +1,22 @@
+curl 'https://giga.chat/api/gigachat/giga-back-web/api/v0/sessions/request' \
+  -H 'accept: text/event-stream, application/json' \
+  -H 'accept-language: ru,en-US;q=0.9,en;q=0.8,uk;q=0.7' \
+  -H 'cache-control: no-cache' \
+  -H 'content-type: application/json' \
+  -H 'dnt: 1' \
+  -H 'instance;' \
+  -H 'origin: https://giga.chat' \
+  -H 'pragma: no-åcache' \
+  -H 'priority: u=1, i' \
+  -H 'sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36' \
+  -H 'x-project-id: ' \
+  -H 'x-request-id: ' \
+  -H 'x-sm-user-id: ' \
+  -H 'x-user-datetime: ' \
+  --data-raw '{"text":"$YOU_REQUEST","model":"GigaChat-2-Max","featureFlags":[]}'
