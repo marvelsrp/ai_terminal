@@ -1,3 +1,4 @@
+#!/bin/bash
 
 SCRIPT_DIR=$(dirname "$(realpath "$0")")
 ORIGINAL_CURL=$(<$SCRIPT_DIR/Request.txt)

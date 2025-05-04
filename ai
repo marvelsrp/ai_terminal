@@ -1,3 +1,5 @@
 #!/bin/bash
 
-bash Sphere.sh
+SCRIPT_DIR=$(dirname "$(realpath "$0")")
+
+bash $SCRIPT_DIR/Sphere.sh
